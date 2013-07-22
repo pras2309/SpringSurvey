@@ -4,7 +4,7 @@
 <a href="#" class="brand">
     <small>
         <i class="icon-unlock-alt"></i>
-        W8 Admin
+        Spring Survey Logo
     </small>
 </a><!--/.brand-->
 
